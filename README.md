@@ -1,6 +1,7 @@
+![image](https://user-images.githubusercontent.com/85024328/120073598-9e337a80-c0cb-11eb-91b6-afecf940a960.png)
 # 2021 Synopsys ARC AIoT Design Contest
 # NCHU WE-I Goose．Smith
-![image](https://user-images.githubusercontent.com/85024328/120073598-9e337a80-c0cb-11eb-91b6-afecf940a960.png)
+
 #
 
 
