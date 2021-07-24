@@ -129,6 +129,10 @@ Other gesture as unknown
 
 
 ## Demo Video
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=gX8zKqhnAXo&ab_channel=ChenBaker">
+</iframe>
+
 ## System architecture
 <img src="https://user-images.githubusercontent.com/51142934/126688700-0d2efc21-179b-4a5f-b32e-562f179e645f.png" width="800" height="300">
 
