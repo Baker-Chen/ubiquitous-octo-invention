@@ -38,11 +38,10 @@ This project combines the advantage of Himax WE-I Plus and NVIDIA Jetson Nano, w
 * Hand Detection
 
 Y: Hand detected <br/>
-
 N: Hand NOT detect
 
 
-<img src="https://i.imgur.com/WfL61Gv.png" width="400">
+<img src="https://i.imgur.com/WfL61Gv.png" width="600">
 
 
 ---
@@ -51,11 +50,11 @@ N: Hand NOT detect
 ###
 * Idle state
 
-Enter when no hand or any object detected
+Enter the IDLE state when no hand or any object detected
 
 
 
-<img src="https://i.imgur.com/HCuMy2M.png" width="400">
+<img src="https://i.imgur.com/HCuMy2M.png" width="600">
 
 
 
@@ -67,7 +66,7 @@ Enter when no hand or any object detected
 Open camera and start gesture recognition
 
 
-<img src="https://i.imgur.com/hZ7tg5h.png" width="400">
+<img src="https://i.imgur.com/hZ7tg5h.png" width="600">
 
 
 
@@ -76,13 +75,13 @@ Open camera and start gesture recognition
 ###
 * Identified gesture
 
-“ok” gesture as input trigger signal
-“1” ~ “9” gesture as select floors signal
-There are also open and close gesture that can be used to open or close the elevator
-Other gesture as unknown (x)
+“ok” gesture as input trigger signal<br/>
+“1” ~ “9” gesture as select floors signal<br/>
+There are also "open" and "close" gesture that can be used to open or close the elevator<br/>
+Other gesture as unknown
 
 
-<img src="https://i.imgur.com/mWNiWop.png" width="400">
+<img src="https://i.imgur.com/mWNiWop.png" width="600">
 
 
 
@@ -91,7 +90,7 @@ Other gesture as unknown (x)
 ###
 * Elevator Animation
 
-<img src="https://i.imgur.com/06xGDrr.png" width="400">
+<img src="https://i.imgur.com/06xGDrr.png" width="600">
 
 
 
