@@ -14,7 +14,7 @@
 * <a href="#demo-Video">Demo Video</a>
 * <a href="#system-architecture">System architecture</a>
 * <a href="#physical-Design">Physical Design</a>
-* <a href="#flow Chart">Flow Chart</a>
+* <a href="#flow-chart">Flow Chart</a>
 * <a href="#tools">Tools</a>
 * <a href="#required-hardware">Required Hardware</a>
 * <a href="#required-software">Required Software</a>
@@ -251,6 +251,6 @@ alt="Link is failed!" width="300" border="10" /></a>
 
 
 
-## Elevator
-<img src="https://i.imgur.com/C3cTFHO.png" width="500">
+<!-- ## Elevator
+<img src="https://i.imgur.com/C3cTFHO.png" width="500"> -->
 
