@@ -131,7 +131,7 @@ Other gesture as unknown
 ## Demo Video
 <a href="https://www.youtube.com/watch?v=gX8zKqhnAXo&ab_channel=ChenBaker
 " target="_blank"><img src="https://i9.ytimg.com/vi/gX8zKqhnAXo/mq1.jpg?sqp=CMil8YcG&rs=AOn4CLCbA1oz6dyJ3i0p3LGN3S5EcOBbeQ" 
-alt="Link is failed!" width="240" height="180" border="10" /></a>
+alt="Link is failed!" width="300" border="10" /></a>
 
 ## System architecture
 <img src="https://user-images.githubusercontent.com/51142934/126688700-0d2efc21-179b-4a5f-b32e-562f179e645f.png" width="800" height="300">
