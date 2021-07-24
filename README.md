@@ -25,9 +25,9 @@
 
 
 ## Introduction
-In the post pandemic era, zero-contact technology has become a trend. Among them, the elevator is beneficial to the spread of the virus because the elevator space is small, closed and crowded. It is easy to be infected because people interact to the elevator control panel and talk to each other in the elevator. So we wanted to achieve a smart elevator control panel that can recognize the specific gestures and always-on system through the benefits of Himax WE-I Plus ultra-low power consumption and AI acceleration, and reduce operation complexity and overall power consumption through a distributed computing architecture of edge computing.
+In the post pandemic era, zero-contact technology has become a trend. Among them, elevators play a significant role in spreading the virus due to the space in elevators are commonly small, closed and crowded. It is easy to be infected because people frequently interact with the elevator button panel and talk to another person in the same elevator. So we want to achieve a smart elevator button panel that can recognize the specific gestures and an always-on system through the benefits of Himax WE-I Plus ultra-low power consumption and AI acceleration. Reduce operation complexity and overall power consumption through a distributed computing architecture of edge computing.
 
-This project combines the advantage of Himax WE-I Plus(ultra low power AI acceleration embedded ASIC) and NVIDIA Jetson Nano. Using cygwin to transfer the pretrained model into the form of Tensorflow Lite, then detecting the hand movement by Himax WE-I Plus, depends on NVIDIA Jetson Nano to process the gesture recognition, send the recognition output to the remote server to control the elevator. 
+This project combines the advantage of Himax WE-I Plus(ultra low power AI acceleration embedded ASIC) and NVIDIA Jetson Nano. Using cygwin to transfer the pretrained model into the form of Tensorflow Lite, then detecting the hand movement by Himax WE-I Plus, depends on NVIDIA Jetson Nano to process the gesture recognition, send the recognition output to the remote server to control the elevator.
 
 
 <h3 id="Function"><b>Function</b></h3>
