@@ -129,7 +129,7 @@ Other gesture as unknown
 
 
 ## Demo Video
-<a href="https://www.youtube.com/watch?v=gX8zKqhnAXo&ab_channel=ChenBaker
+<a href="https://youtu.be/XFymUaxBFEE
 " target="_blank"><img src="https://i9.ytimg.com/vi/gX8zKqhnAXo/mq1.jpg?sqp=CMil8YcG&rs=AOn4CLCbA1oz6dyJ3i0p3LGN3S5EcOBbeQ" 
 alt="Link is failed!" width="300" border="10" /></a>
 
