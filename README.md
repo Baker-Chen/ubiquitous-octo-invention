@@ -27,7 +27,7 @@
 ## Introduction
 In the post pandemic era, zero-contact technology has become a trend. Among them, the elevator is beneficial to the spread of the virus because the elevator space is small, closed and crowded. It is easy to be infected because people interact to the elevator control panel and talk to each other in the elevator. So we wanted to achieve a smart elevator control panel that can recognize the specific gestures and always-on system through the benefits of Himax WE-I Plus ultra-low power consumption and AI acceleration, and reduce operation complexity and overall power consumption through a distributed computing architecture of edge computing.
 
-This project combines the advantage of Himax WE-I Plus and NVIDIA Jetson Nano, which are low-power comsumptioned and high efficiency respectively.Using cygwin to transfer the pretrained model into the version of Tensorflow lite, then detecting the hand movement by Himax WE-I Plus, depend on NVIDIA Jetson Nano to process the gesture recognition, send the recognition output to the server to control the elevator. 
+This project combines the advantage of Himax WE-I Plus(ultra low power AI acceleration embedded ASIC) and NVIDIA Jetson Nano. Using cygwin to transfer the pretrained model into the form of Tensorflow Lite, then detecting the hand movement by Himax WE-I Plus, depends on NVIDIA Jetson Nano to process the gesture recognition, send the recognition output to the remote server to control the elevator. 
 
 
 <h3 id="Function"><b>Function</b></h3>
