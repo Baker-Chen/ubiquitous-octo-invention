@@ -5,7 +5,7 @@
 # 2021 Synopsys ARC AIoT Design Contest
 # NCHU WE-I Goose．Smith!  <img src="https://i.imgur.com/fzbaowW.png" width="60">
 
-#### Smart elevator based on edge computing architecture combined with gesture recognition
+## Smart elevator based on edge computing architecture combined with gesture recognition
 
 * <a href="#Introduction">Introduction</a>
 * <a href="#Innovation-amp-Difficulties">Innovation & Difficulties</a>
