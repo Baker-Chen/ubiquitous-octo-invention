@@ -1,3 +1,6 @@
+
+
+
 ![image](https://user-images.githubusercontent.com/85024328/120073598-9e337a80-c0cb-11eb-91b6-afecf940a960.png)
 # 2021 Synopsys ARC AIoT Design Contest
 # NCHU WE-I Goose．Smith
@@ -26,16 +29,79 @@ In the post pandemic era, zero-contact technology has become a trend. Among them
 This project combines the advantage of Himax WE-I Plus and NVIDIA Jetson Nano, which are low-power comsumptioned and high efficiency respectively.Using cygwin to transfer the pretrained model into the version of Tensorflow lite, then detecting the hand movement by Himax WE-I Plus, depend on NVIDIA Jetson Nano to process the gesture recognition, send the recognition output to the server to control the elevator. 
 
 
-<b style="font-size:18px" id="Function">Function</b>
+<h3 id="Function"><b>Function</b></h3>
+
+---
 
 
-<img src="https://i.imgur.com/DZKyWzh.png" width="400">
+* Hand Detection
+
+Y: Hand detected
+N: Hand NOT detect
+
+
+<img src="https://i.imgur.com/WfL61Gv.png" width="400">
+
+
+---
+
+
+###
+* Idle state
+
+Enter when no hand or any object detected
+
+
+
+<img src="https://i.imgur.com/HCuMy2M.png" width="400">
+
+
+
+---
+
+###
+* Triggered state
+
+Open camera and start gesture recognition
+
+
+<img src="https://i.imgur.com/hZ7tg5h.png" width="400">
+
+
+
+---
+
+###
+* Identified gesture
+
+“ok” gesture as input trigger signal
+“1” ~ “9” gesture as select floors signal
+There are also open and close gesture that can be used to open or close the elevator
+Other gesture as unknown (x)
+
+
+<img src="https://i.imgur.com/mWNiWop.png" width="400">
+
+
+
+---
+
+###
+* Elevator Animation
+
+<img src="https://i.imgur.com/06xGDrr.png" width="400">
+
+
+
+
+
 
 
 
 
 ## Innovation & Difficulties
-<b style="font-size: 18px" id="Innovation">Innovation</b>
+<h3 id="Innovation"><b>Innovation</b></h3>
+
 
 * Control the elevator with gesture recognition
 *  Always-on system
@@ -46,7 +112,8 @@ This project combines the advantage of Himax WE-I Plus and NVIDIA Jetson Nano, w
 *  Use gesture recognition to remotely control server
 *  Combination of high OPS unit and low power edge sensor
 
-<b style="font-size: 18px" id="Difficulties">Difficulties</b>
+
+<h3 id="Difficulties"><b>Difficulties</b></h3>
 
 * Privacy
 *  Multi-gesture recognition
@@ -65,7 +132,8 @@ This project combines the advantage of Himax WE-I Plus and NVIDIA Jetson Nano, w
 <img src="https://user-images.githubusercontent.com/51142934/126688700-0d2efc21-179b-4a5f-b32e-562f179e645f.png" width="800" height="300">
 
 ## Physical Design
-![](https://i.imgur.com/GAjMDkY.jpg)
+![](https://i.imgur.com/h58VDno.jpg)
+
 
 
 ## Flow Chart
@@ -181,13 +249,3 @@ This project combines the advantage of Himax WE-I Plus and NVIDIA Jetson Nano, w
 ## Elevator
 <img src="https://i.imgur.com/C3cTFHO.png" width="500">
 
-
-
-<style>
-b {
-font-size:20px,
-}
-#function {
-color:
-}
-</style>
