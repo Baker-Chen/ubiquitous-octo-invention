@@ -37,8 +37,8 @@ This project combines the advantage of Himax WE-I Plus and NVIDIA Jetson Nano, w
 
 * Hand Detection
 
-Y: Hand detected
-#
+Y: Hand detected <br><br/>
+
 N: Hand NOT detect
 
 
