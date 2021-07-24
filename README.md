@@ -8,18 +8,18 @@
 ## Smart elevator based on edge computing architecture combined with gesture recognition
 
 * <a href="#Introduction">Introduction</a>
-* <a href="#Innovation-amp-Difficulties">Innovation & Difficulties</a>
+* <a href="#Innovation--Difficulties">Innovation & Difficulties</a>
     * <a href="#Innovation">Innovation</a>
     * <a href="#Difficulties">Difficulties</a>
-* <a href="#Demo-Video">Demo Video</a>
-* <a href="#System-architecture">System architecture</a>
-* <a href="#Physical-Design">Physical Design</a>
-* <a href="#Flow Chart">Flow Chart</a>
-* <a href="#Tools">Tools</a>
-* <a href="#Required-Hardware">Required Hardware</a>
-* <a href="#Required-Software">Required Software</a>
-* <a href="#User-guide">User guide</a>
-* <a href="#Elevator">Elevator</a>
+* <a href="#demo-Video">Demo Video</a>
+* <a href="#system-architecture">System architecture</a>
+* <a href="#physical-Design">Physical Design</a>
+* <a href="#flow Chart">Flow Chart</a>
+* <a href="#tools">Tools</a>
+* <a href="#required-hardware">Required Hardware</a>
+* <a href="#required-software">Required Software</a>
+* <a href="#user-guide">User guide</a>
+* <a href="#elevator">Elevator</a>
 
 
 
