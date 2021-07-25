@@ -3,10 +3,10 @@
 alt="Link is failed!" width="600" border="10" /></a>
 
 
-# 2021 Synopsys ARC AIoT Design Contest
+# [2021 Synopsys ARC AIoT Design Contest](https://www.synopsys.com/zh-tw/taiwan/university-program/iot-initiative/2021-arc-aiot-design-contest.html)
 # NCHU WE-I Goose．Smith  <img src="https://i.imgur.com/fzbaowW.png" width="60">
 
-## Smart elevator based on edge computing architecture combined with gesture recognition
+## Smart elevator based on edge computing architecture combined with gesture recognition 
 
 * <a href="#Introduction">Introduction</a>
 * <a href="#Innovation--Difficulties">Innovation & Difficulties</a>
@@ -131,7 +131,8 @@ Other gesture as unknown
 
 
 
-## Demo Video
+## Demo Video ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+(https://youtu.be/XFymUaxBFEE)
 <a href="https://youtu.be/XFymUaxBFEE
 " target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png" 
 alt="Link is failed!" width="800" border="10" /></a>
