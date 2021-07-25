@@ -126,12 +126,13 @@ Other gesture as unknown
 
 
 <!-- ![image](https://user-images.githubusercontent.com/85024328/126896501-ea881ff7-d7d1-4585-9185-4fb7fc4c156f.png) -->
+<!-- ![image](https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png) -->
 
 
 
 ## Demo Video
 <a href="https://youtu.be/XFymUaxBFEE
-" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896501-ea881ff7-d7d1-4585-9185-4fb7fc4c156f.png" 
+" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png" 
 alt="Link is failed!" width="300" border="10" /></a>
 
 ## System architecture
