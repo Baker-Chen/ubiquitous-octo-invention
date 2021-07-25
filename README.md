@@ -61,10 +61,10 @@ Results:
 * confusion matrix:<br/>
 ![image](https://user-images.githubusercontent.com/85024328/126913238-68d661ba-a6af-4a31-9c68-99f205116e60.png)
 
-
-Y: Hand detected <br/>
+```
+Y: Hand detected 
 N: Hand NOT detect
-
+```
 
 <img src="https://i.imgur.com/WfL61Gv.png" width="600">
 
