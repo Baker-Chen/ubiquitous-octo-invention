@@ -6,9 +6,13 @@ alt="Link is failed!" width="600" border="10" /></a>
 # [2021 Synopsys ARC AIoT Design Contest](https://www.synopsys.com/zh-tw/taiwan/university-program/iot-initiative/2021-arc-aiot-design-contest.html)
 # NCHU WE-I Goose．Smith  <img src="https://i.imgur.com/fzbaowW.png" width="60">
 
-## Smart elevator based on edge computing architecture combined with gesture recognition 
+### Smart elevator based on edge computing architecture combined with gesture recognition 
+[![Build Status](https://travis-ci.org/SpiderLabs/ModSecurity-apache.svg?branch=master)](https://travis-ci.org/SpiderLabs/ModSecurity-apache)
 
+## Content
 * <a href="#Introduction">Introduction</a>
+* <a href="#Implementation">Implementation</a>
+* * <a href="#Power--Optimization">Power Optimization</a>
 * <a href="#Innovation--Difficulties">Innovation & Difficulties</a>
     * <a href="#Innovation">Innovation</a>
     * <a href="#Difficulties">Difficulties</a>
@@ -31,13 +35,42 @@ In the post pandemic era, zero-contact technology has become a trend. Among them
 This project combines the advantage of Himax WE-I Plus (ultra low power AI acceleration embedded ASIC) and NVIDIA Jetson Nano. We use cygwin to transfer the pretrained model into Tensorflow Lite’s form, and detect the hand movement through Himax WE-I Plus. After the process of the gesture recognition on NVIDIA Jetson Nano, we send the output to a remote server to control the elevator.
 
 
-<h3 id="Function"><b>Function</b></h3>
+
+## Implementaion
+
+### Hand Detection
+
+<img src="https://user-images.githubusercontent.com/85024328/126913339-c09c8a79-e4ad-41f4-9ec2-7ad82a7de196.png" width="300">
+
+```
+Training model: MobileNet
+```
+
+![image](https://user-images.githubusercontent.com/85024328/126913201-de2dbe4e-2a5a-4d5b-ae8f-ce3e7b44bfcf.png)
+![image](https://user-images.githubusercontent.com/85024328/126913199-b63c0f4f-dc45-47d6-85f5-7f1be7f54592.png)
+![image](https://user-images.githubusercontent.com/85024328/126913200-49a3110c-54aa-4d95-9db0-eacad8262782.png)
+
+Results:
+* training curve:<br/>
+![image](https://user-images.githubusercontent.com/85024328/126913220-bc61079e-1428-49bc-b461-a07c7a0f7846.png)
+* confusion matrix:<br/>
+![image](https://user-images.githubusercontent.com/85024328/126913238-68d661ba-a6af-4a31-9c68-99f205116e60.png)
+
+### Gesture Recognition
+<img src="https://user-images.githubusercontent.com/85024328/126913452-4baf491b-03fb-4bfa-a407-a557239963a3.png" width="300">
+
+```
+API: Google MediaPipe
+```
+
+<img src="https://user-images.githubusercontent.com/85024328/126913480-5ca26c9f-f78d-4814-b2d6-3f87d862e806.png" width="600">
+
+![image](https://user-images.githubusercontent.com/85024328/126913608-210f70f3-2191-473e-8d47-073d05144f7f.png)
+
+
+
 
 ---
-
-
-* Hand Detection
-
 Y: Hand detected <br/>
 N: Hand NOT detect
 
@@ -89,6 +122,7 @@ Other gesture as unknown
 ---
 
 ###
+### Control Simulation
 * Elevator Animation
 
 <img src="https://i.imgur.com/06xGDrr.png" width="600">
@@ -96,7 +130,8 @@ Other gesture as unknown
 
 
 
-
+## Power Optimization
+<img src="https://user-images.githubusercontent.com/85024328/126913670-95650abc-ca44-4160-858a-9a29a9aef9ad.png" width="600">
 
 
 
@@ -151,7 +186,7 @@ alt="Link is failed!" width="800" border="10" /></a>
 
 
 ## Tools
-<b style="font-size: 18px">Gesture Detection</b>
+<b style="font-size: 18px">Hand Detection</b>
 
 * Himax WE-I Plus
 * TensorFlow Lite
