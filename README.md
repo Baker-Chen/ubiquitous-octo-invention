@@ -125,12 +125,13 @@ Other gesture as unknown
 *  Recognition speed leads to errors
 
 
+<!-- ![image](https://user-images.githubusercontent.com/85024328/126896501-ea881ff7-d7d1-4585-9185-4fb7fc4c156f.png) -->
 
 
 
 ## Demo Video
 <a href="https://youtu.be/XFymUaxBFEE
-" target="_blank"><img src="https://i9.ytimg.com/vi/gX8zKqhnAXo/mq1.jpg?sqp=CMil8YcG&rs=AOn4CLCbA1oz6dyJ3i0p3LGN3S5EcOBbeQ" 
+" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896501-ea881ff7-d7d1-4585-9185-4fb7fc4c156f.png" 
 alt="Link is failed!" width="300" border="10" /></a>
 
 ## System architecture
