@@ -132,7 +132,7 @@ Other gesture as unknown
 
 
 ## Demo Video ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-(https://youtu.be/XFymUaxBFEE)
+
 <a href="https://youtu.be/XFymUaxBFEE
 " target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png" 
 alt="Link is failed!" width="800" border="10" /></a>
