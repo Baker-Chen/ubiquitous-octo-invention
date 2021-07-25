@@ -568,6 +568,9 @@ dir_tree.txt
 <!-- ## Elevator
 <img src="https://i.imgur.com/C3cTFHO.png" width="500"> -->
 
-![image](https://user-images.githubusercontent.com/85024328/126911058-822af750-199e-4e61-a547-2033c02be03d.png)
+<a href="https://www.synopsys.com/zh-tw/taiwan/university-program/iot-initiative/2021-arc-aiot-design-contest.html
+" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126911058-822af750-199e-4e61-a547-2033c02be03d.png" 
+alt="Link is failed!" width="1000" border="10" /></a>
+
 
 
