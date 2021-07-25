@@ -11,8 +11,8 @@ alt="Link is failed!" width="600" border="10" /></a>
 
 ## Content
 * <a href="#Introduction">Introduction</a>
-* <a href="#implementation">Implementation</a>
-* <a href="#Power--Optimization">Power Optimization</a>
+* <a href="#implementaion">Implementation</a>
+* <a href="#power--optimization">Power Optimization</a>
 * <a href="#Innovation--Difficulties">Innovation & Difficulties</a>
     * <a href="#Innovation">Innovation</a>
     * <a href="#Difficulties">Difficulties</a>
