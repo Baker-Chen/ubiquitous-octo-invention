@@ -179,12 +179,12 @@ alt="Link is failed!" width="300" border="10" /></a>
   </tr>
   <tr>
     <tr>
-    <td>Himax We-I Plus</td>
+    <td>Himax WE-I Plus</td>
   </tr>
     <td>HDMI screen</td>
   </tr>
   <tr>
-    <td>NVIDIA Jatson Nano</td>
+    <td>NVIDIA Jetson Nano</td>
   </tr>
   <tr>
     <td>Logitech Webcam</td>
