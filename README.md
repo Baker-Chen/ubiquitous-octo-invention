@@ -24,7 +24,7 @@ alt="Link is failed!" width="600" border="10" /></a>
 * <a href="#required-hardware">Required Hardware</a>
 * <a href="#required-software">Required Software</a>
 * <a href="#user-guide">User guide</a>
-* <a href="#elevator">Elevator</a>
+
 
 
 
