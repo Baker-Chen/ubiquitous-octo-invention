@@ -1,7 +1,8 @@
+<a href="https://www.synopsys.com/zh-tw/taiwan/university-program/iot-initiative/2021-arc-aiot-design-contest.html
+" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/120073598-9e337a80-c0cb-11eb-91b6-afecf940a960.png" 
+alt="Link is failed!" width="600" border="10" /></a>
 
 
-
-![image](https://user-images.githubusercontent.com/85024328/120073598-9e337a80-c0cb-11eb-91b6-afecf940a960.png)
 # 2021 Synopsys ARC AIoT Design Contest
 # NCHU WE-I Goose．Smith  <img src="https://i.imgur.com/fzbaowW.png" width="60">
 
