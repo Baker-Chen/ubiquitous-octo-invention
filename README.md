@@ -232,6 +232,14 @@ Other gesture as unknown
  
  </table>
  
+ Himax WE-I Plus: </br>
+ <img src="https://user-images.githubusercontent.com/85024328/126917019-cf70ed76-5942-419d-9b18-d247cd1d1d40.png" width="200"> 
+
+NVIDIA Jetson Nano: </br>
+ <img src="https://user-images.githubusercontent.com/85024328/126917141-68c3211a-7f3c-4a64-94f3-b547adc37eeb.png" width="200">  
+
+
+ 
 ## Required Software
 
 <table>
@@ -285,7 +293,7 @@ Other gesture as unknown
 </table>
 
 ## User guide
-dir tree <br/>
+dir tree </br>
 
 ```
 dir_tree.txt
