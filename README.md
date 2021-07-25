@@ -11,12 +11,12 @@ alt="Link is failed!" width="600" border="10" /></a>
 
 ## Content
 * <a href="#Introduction">Introduction</a>
+* <a href="#demo-Video">Demo Video</a>
 * <a href="#implementaion">Implementation</a>
 * <a href="#power-optimization">Power Optimization</a>
 * <a href="#Innovation--Difficulties">Innovation & Difficulties</a>
     * <a href="#Innovation">Innovation</a>
     * <a href="#Difficulties">Difficulties</a>
-* <a href="#demo-Video">Demo Video</a>
 * <a href="#system-architecture">System architecture</a>
 * <a href="#physical-Design">Physical Design</a>
 * <a href="#flow-chart">Flow Chart</a>
@@ -35,6 +35,11 @@ In the post pandemic era, zero-contact technology has become a trend. Among them
 This project combines the advantage of Himax WE-I Plus (ultra low power AI acceleration embedded ASIC) and NVIDIA Jetson Nano. We use cygwin to transfer the pretrained model into Tensorflow Lite’s form, and detect the hand movement through Himax WE-I Plus. After the process of the gesture recognition on NVIDIA Jetson Nano, we send the output to a remote server to control the elevator.
 
 
+## Demo Video ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+<a href="https://youtu.be/XFymUaxBFEE
+" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png" 
+alt="Link is failed!" width="800" border="10" /></a>
 
 ## Implementaion
 
@@ -56,6 +61,15 @@ Results:
 * confusion matrix:<br/>
 ![image](https://user-images.githubusercontent.com/85024328/126913238-68d661ba-a6af-4a31-9c68-99f205116e60.png)
 
+
+Y: Hand detected <br/>
+N: Hand NOT detect
+
+
+<img src="https://i.imgur.com/WfL61Gv.png" width="600">
+
+---
+
 ### Gesture Recognition
 <img src="https://user-images.githubusercontent.com/85024328/126913452-4baf491b-03fb-4bfa-a407-a557239963a3.png" width="300">
 
@@ -70,17 +84,6 @@ API: Google MediaPipe
 
 
 
----
-Y: Hand detected <br/>
-N: Hand NOT detect
-
-
-<img src="https://i.imgur.com/WfL61Gv.png" width="600">
-
-
----
-
-
 ###
 * Idle state
 
@@ -92,7 +95,7 @@ Enter the IDLE state when no hand or any object detected
 
 
 
----
+
 
 ###
 * Triggered state
@@ -104,7 +107,7 @@ Open camera and start gesture recognition
 
 
 
----
+
 
 ###
 * Identified gesture
@@ -119,7 +122,7 @@ Other gesture as unknown
 
 
 
----
+
 
 ###
 ### Control Simulation
@@ -166,11 +169,6 @@ Other gesture as unknown
 
 
 
-## Demo Video ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-<a href="https://youtu.be/XFymUaxBFEE
-" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png" 
-alt="Link is failed!" width="800" border="10" /></a>
 
 ## System architecture
 <img src="https://user-images.githubusercontent.com/51142934/126688700-0d2efc21-179b-4a5f-b32e-562f179e645f.png" width="800">
