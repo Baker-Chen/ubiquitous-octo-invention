@@ -133,7 +133,7 @@ Other gesture as unknown
 ## Demo Video
 <a href="https://youtu.be/XFymUaxBFEE
 " target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png" 
-alt="Link is failed!" width="300" border="10" /></a>
+alt="Link is failed!" width="800" border="10" /></a>
 
 ## System architecture
 <img src="https://user-images.githubusercontent.com/51142934/126688700-0d2efc21-179b-4a5f-b32e-562f179e645f.png" width="800">
