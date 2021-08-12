@@ -46,6 +46,11 @@ This project combines the advantage of Himax WE-I Plus (ultra low power AI accel
 " target="_blank"><img src="https://user-images.githubusercontent.com/85024328/126896550-7e98469d-3c87-411b-b4ec-2f3f7a9c5ec8.png" 
 alt="Link is failed!" width="800" border="10" /></a>
 
+<a href="https://www.youtube.com/watch?v=zGfWqGfO2uo&t=3s&ab_channel=ChenBaker
+" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/129127230-aedac83e-101b-4b3b-877d-a45fc1b84b1c.png" 
+alt="Link is failed!" width="800" border="10" /></a>
+
+
 ## Implementaion
 
 ### Hand Detection
