@@ -9,6 +9,11 @@ alt="Link is failed!" width="1000" border="10" /></a>
 ### Smart elevator based on edge computing architecture combined with gesture recognition 
 [![Build Status](https://travis-ci.org/SpiderLabs/ModSecurity-apache.svg?branch=master)](https://travis-ci.org/SpiderLabs/ModSecurity-apache)
 
+<a href="https://www.synopsys.com/zh-tw/taiwan/university-program/iot-initiative/2021-arc-aiot-design-contest.html
+" target="_blank"><img src="https://user-images.githubusercontent.com/85024328/129126946-c26ab3a6-8edb-4786-acfc-0e119b7ed6fc.png" 
+alt="Link is failed!" width="400" border="10" /></a>
+
+
 ## Content
 * <a href="#Introduction">Introduction</a>
 * <a href="#demo-Video">Demo Video</a>
